@@ -4,13 +4,13 @@ return [
     /**
      * The book title.
      */
-    'title' => 'Laravel Queues in Action',
+    'title' => 'Muath\'s Blog',
 
 
     /**
      * The author name.
      */
-    'author' => 'Mohamed Said',
+    'author' => 'Muath Alsowadi',
 
 
     /**
@@ -56,6 +56,6 @@ return [
     /**
      * A notice printed at the final page of a generated sample.
      */
-    'sample_notice' => 'This is a sample from "Laravel Queues in Action" by Mohamed Said. <br> 
-                        For more information, <a href="https://www.learn-laravel-queues.com/">Click here</a>.',
+    'sample_notice' => 'This is a sample from "Muath\'s Blog" by Muath Alsowadi. <br> 
+                        For more information, <a href="https://www.muathye.com/">Click here</a>.',
 ];
