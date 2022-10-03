@@ -5,7 +5,7 @@ Generate E-book with markdown files
 ## Installation
 
 ```bat
-git clone <https://github.com/muath-ye/markdown-ebook-generator.git>
+git clone https://github.com/muath-ye/markdown-ebook-generator.git
 ```
 
 ```bat
